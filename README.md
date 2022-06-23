@@ -1,5 +1,9 @@
 # Lab41_MVC5
 
+I AM ARCHIVING THIS PROJECT
+
+ - I am archiving this since this was a project for a course I was taking. It has since served its' purpose and I don't see a reason to keep updating the project.
+
 ## Summary
 This application is from following a tutorial on how to build a website in ASP.NET using MVC.  
 MVC stands for Models, Views, Controllers which represents a way to separate the variables 
